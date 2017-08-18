@@ -1,0 +1,87 @@
+h1 {
+	font-family: Comfortaa;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
+h3 {
+	font-family: Comfortaa;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
+p {
+	font-family: Comfortaa;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+blockquote {
+	font-family: Comfortaa;
+	font-size: 21px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 30px;
+}
+pre {
+	font-family: Comfortaa;
+	font-size: 13px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 18.5714px;
+}
+
+
+body {
+	margin:0px;
+    padding: 0;
+    background-color: #F2F1F1;
+    }
+
+.yogaImage {
+	height: 100vh;
+	width: 100%;
+}
+
+.getDroneHeader {
+	z-index: 3;
+	position: relative;
+	left: 0.6%;
+    top: -665px;
+    font-color: #E8E8E8;
+}
+
+.logo {
+	z-index: 3;
+	position: relative;
+	left: 45.7%;
+    top: -140px;
+    height: 13.67%;
+    width: 8%;
+
+}
+
+
+.boyOnCliff {
+	height: auto;
+	width: 100%;
+}
+
+.captureTheExceptional {
+	font: comfortaa;
+	font-color: #E8E8E8;
+}
+
+.learnMore {
+	font: comfortaa;
+	font-color: #E8E8E8;
+}
+
