@@ -1,0 +1,26 @@
+{
+  "name": "website_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./node_modules/http-server/bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iludlow99/Get-Drone.git"
+  },
+  "author": "Isaac Ludlow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iludlow99/Get-Drone/issues"
+  },
+  "homepage": "https://github.com/iludlow99/Get-Drone#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  },
+  "description": ""
+}
