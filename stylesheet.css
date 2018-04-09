@@ -54,7 +54,7 @@ html {
 
 body {
     margin: 0;
-    background-color: #444;
+    background-color: #2c2c2c;
 /*    height: 100%;*/
 }
 
@@ -73,7 +73,7 @@ nav {
     width: 100%;
     padding: 12px 10px;
     background-color: rgb(255, 255, 255);
-    background-color: #444;
+    background-color: #272727;
     box-shadow: 0px 1px 5px #000; 
 }
 
@@ -140,7 +140,7 @@ div.mainImg p {
 }
 
 /*=====================================================*/
-section {
+.noTouchingSides {
     margin: 0px 20px 0px 20px;
 }
 
@@ -151,7 +151,7 @@ section {
     justify-content: space-between;
     align-items: center;
 
-    margin: 5em 0em 5em 0em;
+    margin: 5em 20px 5em 20px;
 }
 
     .statement {
@@ -178,8 +178,28 @@ section {
         height: 180px;
     }
 
-
-
+#section3 {
+    background-color: #383838;
+    padding: 90px 0px 80px 0px;
+}
+    .threeLinks {
+        display: flex;
+        justify-content: space-around;
+    }
+    .img-thumb-sectn {
+        text-align: center;
+        
+    }
+    .img-thumb-sectn img {
+        height: 180px;
+        width: 300px;
+    } 
+    .img-thumb-sectn h3, a {
+        text-decoration: none;
+        color: #F07F4F;
+        padding-top: 10px;
+        font-size: 22px;
+    }
 
 
 /*.equip-img {
